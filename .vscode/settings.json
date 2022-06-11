@@ -5,5 +5,8 @@
             "scheme": "file",
             "pattern": "src/product/product.model.ts"
         }
+    ],
+    "cSpell.words": [
+        "nestjs"
     ]
 }
